@@ -1,0 +1,244 @@
+<playlist xmlns="http://xspf.org/ns/0/" version="1">
+  <title>Ap</title>
+  <creator>jenniferweiss</creator>
+  <meta rel="https://rdio.com/xspf/key">p2234406</meta>
+  <meta rel="https://rdio.com/xspf/name">Ap</meta>
+  <meta rel="https://rdio.com/xspf/owner">jenniferweiss</meta>
+  <meta rel="https://rdio.com/xspf/playlist_directory">1_favorites</meta>
+  <meta rel="https://rdio.com/xspf/playlist_type">favorites_playlists</meta>
+  <meta rel="https://rdio.com/xspf/url">/people/jenniferweiss/playlists/2234406/Ap/</meta>
+  <trackList>
+    <track>
+      <title>Nothing Better</title>
+      <creator>The Postal Service</creator>
+      <album>Give Up</album>
+      <trackNum>4</trackNum>
+      <duration>226000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USSUB0300122</meta>
+    </track>
+    <track>
+      <title>Love Is Blindness</title>
+      <creator>Jack White</creator>
+      <album>Sixteen Saltines</album>
+      <trackNum>2</trackNum>
+      <duration>198000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USSM11201952</meta>
+    </track>
+    <track>
+      <title>Silver Springs</title>
+      <creator>Lykke Li</creator>
+      <album>Just Tell Me That You Want Me: A Tribute To Fleetwood Mac</album>
+      <trackNum>8</trackNum>
+      <duration>251000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USHC41200238</meta>
+    </track>
+    <track>
+      <title>Your Ex-Lover Is Dead</title>
+      <creator>Stars</creator>
+      <album>Set Yourself on Fire</album>
+      <trackNum>1</trackNum>
+      <duration>256000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">CAAA10400901</meta>
+    </track>
+    <track>
+      <title>Do Me a Favour</title>
+      <creator>Arctic Monkeys</creator>
+      <album>Favourite Worst Nightmare</album>
+      <trackNum>7</trackNum>
+      <duration>209000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBCEL0700069</meta>
+    </track>
+    <track>
+      <title>Too Much To Ask (B Side)</title>
+      <creator>Arctic Monkeys</creator>
+      <album>Fluorescent Adolescent</album>
+      <trackNum>4</trackNum>
+      <duration>183000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBCEL0700381</meta>
+    </track>
+    <track>
+      <title>Never Going Back Again</title>
+      <creator>Fleetwood Mac</creator>
+      <album>Rumours (Deluxe)</album>
+      <trackNum>3</trackNum>
+      <duration>134000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USWB10400047</meta>
+    </track>
+    <track>
+      <title>Go Your Own Way</title>
+      <creator>Fleetwood Mac</creator>
+      <album>Rumours (Deluxe)</album>
+      <trackNum>5</trackNum>
+      <duration>223000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USWB10400050</meta>
+    </track>
+    <track>
+      <title>Dreams</title>
+      <creator>Fleetwood Mac</creator>
+      <album>Rumours (Deluxe)</album>
+      <trackNum>2</trackNum>
+      <duration>257000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USWB10400046</meta>
+    </track>
+    <track>
+      <title>Silver Springs</title>
+      <creator>Fleetwood Mac</creator>
+      <album>Rumours (Deluxe)</album>
+      <trackNum>12</trackNum>
+      <duration>288000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USWB10400052</meta>
+    </track>
+    <track>
+      <title>Crown of Love</title>
+      <creator>Arcade Fire</creator>
+      <album>Funeral</album>
+      <trackNum>6</trackNum>
+      <duration>282000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USMRG0467007,USMRG0467006</meta>
+    </track>
+    <track>
+      <title>Love Will Tear Us Apart (12" Version)</title>
+      <creator>Joy Division</creator>
+      <album>Love Will Tear Us Apart</album>
+      <trackNum>3</trackNum>
+      <duration>269000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USA371236803</meta>
+    </track>
+    <track>
+      <title>What Ever Happened?</title>
+      <creator>The Strokes</creator>
+      <album>Room On Fire</album>
+      <trackNum>1</trackNum>
+      <duration>167000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USRC10301518</meta>
+    </track>
+    <track>
+      <title>I Have Loved You Wrong</title>
+      <creator>The Swell Season</creator>
+      <album>Strict Joy</album>
+      <trackNum>9</trackNum>
+      <duration>304000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">IEABQ0900009</meta>
+    </track>
+    <track>
+      <title>All My Little Words</title>
+      <creator>The Magnetic Fields</creator>
+      <album>69 Love Songs</album>
+      <trackNum>3</trackNum>
+      <duration>166000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBCEL0400064,USMRG0345070</meta>
+    </track>
+    <track>
+      <title>Love Is Blindness</title>
+      <creator>U2</creator>
+      <album>Achtung Baby</album>
+      <trackNum>12</trackNum>
+      <duration>263000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBAAN9190012,GBUM71106455</meta>
+    </track>
+    <track>
+      <title>Black</title>
+      <creator>Pearl Jam</creator>
+      <album>Ten</album>
+      <trackNum>5</trackNum>
+      <duration>344000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USSM19100412</meta>
+    </track>
+    <track>
+      <title>Requiem for O.M.M. 2</title>
+      <creator>of Montreal</creator>
+      <album>The Sunlandic Twins</album>
+      <trackNum>1</trackNum>
+      <duration>141000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">US3R40500052</meta>
+    </track>
+    <track>
+      <title>Love Will Come Through (SIA Charity Single)</title>
+      <creator>Travis</creator>
+      <album>12 Memories</album>
+      <trackNum>8</trackNum>
+      <duration>220000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBBPF0301068</meta>
+    </track>
+    <track>
+      <title>Displaced</title>
+      <creator>Azure Ray</creator>
+      <album>Azure Ray</album>
+      <trackNum>2</trackNum>
+      <duration>221000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">AUQJ00200913,USBM90510202</meta>
+    </track>
+    <track>
+      <title>Ever Fallen in Love (With Someone You Shouldn't've)?</title>
+      <creator>Buzzcocks</creator>
+      <album>Singles Going Steady</album>
+      <trackNum>5</trackNum>
+      <duration>160000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBAYE7800085</meta>
+    </track>
+    <track>
+      <title>Promises</title>
+      <creator>Buzzcocks</creator>
+      <album>Singles Going Steady</album>
+      <trackNum>6</trackNum>
+      <duration>155000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBAYE7800401</meta>
+    </track>
+    <track>
+      <title>Next Girl</title>
+      <creator>The Black Keys</creator>
+      <album>Brothers</album>
+      <trackNum>2</trackNum>
+      <duration>198000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USNO11000077</meta>
+    </track>
+    <track>
+      <title>She's Long Gone</title>
+      <creator>The Black Keys</creator>
+      <album>Brothers</album>
+      <trackNum>5</trackNum>
+      <duration>186000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USNO11000080</meta>
+    </track>
+    <track>
+      <title>Too Afraid To Love You</title>
+      <creator>The Black Keys</creator>
+      <album>Brothers</album>
+      <trackNum>8</trackNum>
+      <duration>204000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USNO11000083</meta>
+    </track>
+    <track>
+      <title>Summer Skin</title>
+      <creator>Death Cab for Cutie</creator>
+      <album>Plans</album>
+      <trackNum>3</trackNum>
+      <duration>194000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USAT20504682</meta>
+    </track>
+    <track>
+      <title>I Will Possess Your Heart (Radio Edit)</title>
+      <creator>Death Cab for Cutie</creator>
+      <album>Narrow Stairs</album>
+      <trackNum>12</trackNum>
+      <duration>290000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USAT20801841</meta>
+    </track>
+    <track>
+      <title>I've Been Loving You Too Long</title>
+      <creator>Otis Redding</creator>
+      <album>Essentials: Otis Redding</album>
+      <trackNum>2</trackNum>
+      <duration>195000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USAT20001067</meta>
+    </track>
+    <track>
+      <title>Sunset</title>
+      <creator>The xx</creator>
+      <album>Coexist</album>
+      <trackNum>6</trackNum>
+      <duration>218000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBBKS1200090</meta>
+    </track>
+  </trackList>
+</playlist>

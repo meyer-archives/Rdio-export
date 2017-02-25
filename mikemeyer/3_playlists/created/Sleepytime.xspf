@@ -1,0 +1,84 @@
+<playlist xmlns="http://xspf.org/ns/0/" version="1">
+  <title>Sleepytime</title>
+  <creator>mikemeyer</creator>
+  <meta rel="https://rdio.com/xspf/key">p249992</meta>
+  <meta rel="https://rdio.com/xspf/name">Sleepytime</meta>
+  <meta rel="https://rdio.com/xspf/owner">mikemeyer</meta>
+  <meta rel="https://rdio.com/xspf/playlist_directory">3_playlists</meta>
+  <meta rel="https://rdio.com/xspf/playlist_type">created</meta>
+  <meta rel="https://rdio.com/xspf/url">/people/mikemeyer/playlists/249992/Sleepytime/</meta>
+  <trackList>
+    <track>
+      <title>Transatlanticism</title>
+      <creator>Death Cab for Cutie</creator>
+      <album>Transatlanticism</album>
+      <trackNum>7</trackNum>
+      <duration>475000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USBS50310285</meta>
+    </track>
+    <track>
+      <title>Le moulin</title>
+      <creator>Yann Tiersen</creator>
+      <album>Amélie From Montmartre (Original Motion Picture Soundtrack)</album>
+      <trackNum>9</trackNum>
+      <duration>267000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">FR91U0100004</meta>
+    </track>
+    <track>
+      <title>Those To Come</title>
+      <creator>The Shins</creator>
+      <album>Chutes Too Narrow</album>
+      <trackNum>10</trackNum>
+      <duration>264000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USSUB0300143</meta>
+    </track>
+    <track>
+      <title>Brothers on a Hotel Bed</title>
+      <creator>Death Cab for Cutie</creator>
+      <album>Plans</album>
+      <trackNum>10</trackNum>
+      <duration>271000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USAT20504679</meta>
+    </track>
+    <track>
+      <title>Passenger Seat</title>
+      <creator>Death Cab for Cutie</creator>
+      <album>Transatlanticism</album>
+      <trackNum>8</trackNum>
+      <duration>221000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USBS50310286</meta>
+    </track>
+    <track>
+      <title>I Will Follow You Into The Dark</title>
+      <creator>Death Cab for Cutie</creator>
+      <album>Plans</album>
+      <trackNum>5</trackNum>
+      <duration>189000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USAT20504677</meta>
+    </track>
+    <track>
+      <title>Samson</title>
+      <creator>Regina Spektor</creator>
+      <album>Begin To Hope</album>
+      <trackNum>3</trackNum>
+      <duration>190000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USWB10601621</meta>
+    </track>
+    <track>
+      <title>Splendor</title>
+      <creator>M83</creator>
+      <album>Hurry Up, We're Dreaming</album>
+      <trackNum>16</trackNum>
+      <duration>307000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GB55H1100016</meta>
+    </track>
+    <track>
+      <title>U.F.O.</title>
+      <creator>Coldplay</creator>
+      <album>Mylo Xyloto</album>
+      <trackNum>9</trackNum>
+      <duration>137000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBAYE1101186</meta>
+    </track>
+  </trackList>
+</playlist>

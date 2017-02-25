@@ -1,0 +1,132 @@
+<playlist xmlns="http://xspf.org/ns/0/" version="1">
+  <title>Bonerrific II: Son of Bonerrific</title>
+  <creator>mikemeyer</creator>
+  <meta rel="https://rdio.com/xspf/key">p154931</meta>
+  <meta rel="https://rdio.com/xspf/name">Bonerrific II: Son of Bonerrific</meta>
+  <meta rel="https://rdio.com/xspf/owner">mikemeyer</meta>
+  <meta rel="https://rdio.com/xspf/playlist_directory">3_playlists</meta>
+  <meta rel="https://rdio.com/xspf/playlist_type">created</meta>
+  <meta rel="https://rdio.com/xspf/url">/people/mikemeyer/playlists/154931/Bonerrific_II_Son_of_Bonerrific/</meta>
+  <trackList>
+    <track>
+      <title>Everlasting Light</title>
+      <creator>The Black Keys</creator>
+      <album>Brothers</album>
+      <trackNum>1</trackNum>
+      <duration>204000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USNO11000076</meta>
+    </track>
+    <track>
+      <title>Make Some Noise</title>
+      <creator>Beastie Boys</creator>
+      <album>Hot Sauce Committee Part Two</album>
+      <trackNum>1</trackNum>
+      <duration>210000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USCA21100528,USCA21100540</meta>
+    </track>
+    <track>
+      <title>Odd Soul</title>
+      <creator>MuteMath</creator>
+      <album>Odd Soul (Deluxe Version)</album>
+      <trackNum>1</trackNum>
+      <duration>195000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USWB11102271</meta>
+    </track>
+    <track>
+      <title>My Mathematical Mind</title>
+      <creator>Spoon</creator>
+      <album>Gimme Fiction</album>
+      <trackNum>4</trackNum>
+      <duration>302000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USMRG0540052</meta>
+    </track>
+    <track>
+      <title>Typical</title>
+      <creator>MuteMath</creator>
+      <album>MuteMath</album>
+      <trackNum>2</trackNum>
+      <duration>252000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USWB10604338</meta>
+    </track>
+    <track>
+      <title>Don't You Evah</title>
+      <creator>Spoon</creator>
+      <album>Ga Ga Ga Ga Ga</album>
+      <trackNum>4</trackNum>
+      <duration>217000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USMRG0729504</meta>
+    </track>
+    <track>
+      <title>Seven Nation Army</title>
+      <creator>The White Stripes</creator>
+      <album>Elephant</album>
+      <trackNum>1</trackNum>
+      <duration>232000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USVT10300001</meta>
+    </track>
+    <track>
+      <title>Machu Picchu</title>
+      <creator>The Strokes</creator>
+      <album>Angles</album>
+      <trackNum>1</trackNum>
+      <duration>209000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USRC11100046</meta>
+    </track>
+    <track>
+      <title>Blood Pressure</title>
+      <creator>MuteMath</creator>
+      <album>Odd Soul (Deluxe Version)</album>
+      <trackNum>3</trackNum>
+      <duration>183000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USWB11102264</meta>
+    </track>
+    <track>
+      <title>Black Like Me</title>
+      <creator>Spoon</creator>
+      <album>Ga Ga Ga Ga Ga</album>
+      <trackNum>10</trackNum>
+      <duration>206000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USMRG0729510</meta>
+    </track>
+    <track>
+      <title>I Turn My Camera On</title>
+      <creator>Spoon</creator>
+      <album>Gimme Fiction</album>
+      <trackNum>3</trackNum>
+      <duration>212000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USMRG0540051</meta>
+    </track>
+    <track>
+      <title>There's No Home For You Here</title>
+      <creator>The White Stripes</creator>
+      <album>Elephant</album>
+      <trackNum>3</trackNum>
+      <duration>224000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USVT10300003</meta>
+    </track>
+    <track>
+      <title>Clipping</title>
+      <creator>MuteMath</creator>
+      <album>Armistice</album>
+      <trackNum>3</trackNum>
+      <duration>245000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USWB10901561</meta>
+    </track>
+    <track>
+      <title>Chaos</title>
+      <creator>MuteMath</creator>
+      <album>MuteMath</album>
+      <trackNum>4</trackNum>
+      <duration>295000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USWB10604340</meta>
+    </track>
+    <track>
+      <title>Tighten Up</title>
+      <creator>The Black Keys</creator>
+      <album>Brothers</album>
+      <trackNum>3</trackNum>
+      <duration>211000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USNO11000078</meta>
+    </track>
+  </trackList>
+</playlist>

@@ -1,0 +1,44 @@
+<playlist xmlns="http://xspf.org/ns/0/" version="1">
+  <title>Run!!</title>
+  <creator>mikemeyer</creator>
+  <meta rel="https://rdio.com/xspf/key">p759045</meta>
+  <meta rel="https://rdio.com/xspf/name">Run!!</meta>
+  <meta rel="https://rdio.com/xspf/owner">mikemeyer</meta>
+  <meta rel="https://rdio.com/xspf/playlist_directory">3_playlists</meta>
+  <meta rel="https://rdio.com/xspf/playlist_type">created</meta>
+  <meta rel="https://rdio.com/xspf/url">/people/mikemeyer/playlists/759045/Run!!/</meta>
+  <trackList>
+    <track>
+      <title>Party Rock Anthem</title>
+      <creator>LMFAO</creator>
+      <album>Sorry For Party Rocking</album>
+      <trackNum>3</trackNum>
+      <duration>262000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USUM71100061</meta>
+    </track>
+    <track>
+      <title>Supermoves (Album Version)</title>
+      <creator>Overseer</creator>
+      <album>Wreckage</album>
+      <trackNum>3</trackNum>
+      <duration>287000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USSM10306303</meta>
+    </track>
+    <track>
+      <title>Disco Science</title>
+      <creator>Mirwais</creator>
+      <album>Production (Deluxe Version)</album>
+      <trackNum>1</trackNum>
+      <duration>218000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">FRIDO1001380</meta>
+    </track>
+    <track>
+      <title>Dirt Off Your Shoulder/Lying From You</title>
+      <creator>Jay-Z, Linkin Park</creator>
+      <album>Collision Course (Deluxe Version)</album>
+      <trackNum>1</trackNum>
+      <duration>245000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USWB10403678</meta>
+    </track>
+  </trackList>
+</playlist>

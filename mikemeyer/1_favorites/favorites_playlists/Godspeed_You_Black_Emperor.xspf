@@ -1,0 +1,124 @@
+<playlist xmlns="http://xspf.org/ns/0/" version="1">
+  <title>Godspeed You! Black Emperor</title>
+  <creator>miekd</creator>
+  <meta rel="https://rdio.com/xspf/key">p765912</meta>
+  <meta rel="https://rdio.com/xspf/name">Godspeed You! Black Emperor</meta>
+  <meta rel="https://rdio.com/xspf/owner">miekd</meta>
+  <meta rel="https://rdio.com/xspf/playlist_directory">1_favorites</meta>
+  <meta rel="https://rdio.com/xspf/playlist_type">favorites_playlists</meta>
+  <meta rel="https://rdio.com/xspf/url">/people/miekd/playlists/765912/Godspeed_You!_Black_Emperor/</meta>
+  <trackList>
+    <track>
+      <title>Storm</title>
+      <creator>Godspeed You! Black Emperor</creator>
+      <album>Lift Your Skinny Fists Like Antennas to Heaven</album>
+      <trackNum>1</trackNum>
+      <duration>1352000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USI4R0401862</meta>
+    </track>
+    <track>
+      <title>Static</title>
+      <creator>Godspeed You! Black Emperor</creator>
+      <album>Lift Your Skinny Fists Like Antennas to Heaven</album>
+      <trackNum>2</trackNum>
+      <duration>1356000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USI4R0401863</meta>
+    </track>
+    <track>
+      <title>Sleep</title>
+      <creator>Godspeed You! Black Emperor</creator>
+      <album>Lift Your Skinny Fists Like Antennas to Heaven</album>
+      <trackNum>3</trackNum>
+      <duration>1397000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USI4R0401864</meta>
+    </track>
+    <track>
+      <title>Like Antennas To Heaven…</title>
+      <creator>Godspeed You! Black Emperor</creator>
+      <album>Lift Your Skinny Fists Like Antennas to Heaven</album>
+      <trackNum>4</trackNum>
+      <duration>1137000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USI4R0401865</meta>
+    </track>
+    <track>
+      <title>The Dead Flag Blues</title>
+      <creator>Godspeed You! Black Emperor</creator>
+      <album>F#a#infinity</album>
+      <trackNum>1</trackNum>
+      <duration>988000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USI4R0401750</meta>
+    </track>
+    <track>
+      <title>East Hastings</title>
+      <creator>Godspeed You! Black Emperor</creator>
+      <album>F#a#infinity</album>
+      <trackNum>2</trackNum>
+      <duration>1078000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USI4R0401751</meta>
+    </track>
+    <track>
+      <title>Providence</title>
+      <creator>Godspeed You! Black Emperor</creator>
+      <album>F#a#infinity</album>
+      <trackNum>3</trackNum>
+      <duration>1742000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USI4R0401752</meta>
+    </track>
+    <track>
+      <title>09-15-00</title>
+      <creator>Godspeed You! Black Emperor</creator>
+      <album>Yanqui U.X.O.</album>
+      <trackNum>1</trackNum>
+      <duration>987000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">CACQ20702401</meta>
+    </track>
+    <track>
+      <title>09-15-00 (cont.)</title>
+      <creator>Godspeed You! Black Emperor</creator>
+      <album>Yanqui U.X.O.</album>
+      <trackNum>2</trackNum>
+      <duration>376000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">CACQ20702402</meta>
+    </track>
+    <track>
+      <title>rockets fall on Rocket Falls</title>
+      <creator>Godspeed You! Black Emperor</creator>
+      <album>Yanqui U.X.O.</album>
+      <trackNum>3</trackNum>
+      <duration>1242000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">CACQ20702403</meta>
+    </track>
+    <track>
+      <title>motherfucker=redeemer</title>
+      <creator>Godspeed You! Black Emperor</creator>
+      <album>Yanqui U.X.O.</album>
+      <trackNum>4</trackNum>
+      <duration>1282000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">CACQ20702404</meta>
+    </track>
+    <track>
+      <title>motherfucker=redeemer (cont.)</title>
+      <creator>Godspeed You! Black Emperor</creator>
+      <album>Yanqui U.X.O.</album>
+      <trackNum>5</trackNum>
+      <duration>610000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">CACQ20702405</meta>
+    </track>
+    <track>
+      <title>Moya</title>
+      <creator>Godspeed You! Black Emperor</creator>
+      <album>Slow Riot for New Zero Kanada</album>
+      <trackNum>1</trackNum>
+      <duration>651000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USI4R0401801</meta>
+    </track>
+    <track>
+      <title>Blaise Bailey Finnegan III</title>
+      <creator>Godspeed You! Black Emperor</creator>
+      <album>Slow Riot for New Zero Kanada</album>
+      <trackNum>2</trackNum>
+      <duration>1065000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USI4R0401802</meta>
+    </track>
+  </trackList>
+</playlist>

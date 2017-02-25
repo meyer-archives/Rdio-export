@@ -1,0 +1,20 @@
+<playlist xmlns="http://xspf.org/ns/0/" version="1">
+  <title>Karaoke Favs</title>
+  <creator>mikemeyer</creator>
+  <meta rel="https://rdio.com/xspf/key">p981538</meta>
+  <meta rel="https://rdio.com/xspf/name">Karaoke Favs</meta>
+  <meta rel="https://rdio.com/xspf/owner">mikemeyer</meta>
+  <meta rel="https://rdio.com/xspf/playlist_directory">3_playlists</meta>
+  <meta rel="https://rdio.com/xspf/playlist_type">created</meta>
+  <meta rel="https://rdio.com/xspf/url">/people/mikemeyer/playlists/981538/Karaoke_Favs/</meta>
+  <trackList>
+    <track>
+      <title>Rockin' the Suburbs</title>
+      <creator>Ben Folds</creator>
+      <album>Rockin' The Suburbs</album>
+      <trackNum>10</trackNum>
+      <duration>298000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USSM10105169</meta>
+    </track>
+  </trackList>
+</playlist>

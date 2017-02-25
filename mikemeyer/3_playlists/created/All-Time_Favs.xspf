@@ -1,0 +1,60 @@
+<playlist xmlns="http://xspf.org/ns/0/" version="1">
+  <title>All-Time Favs</title>
+  <creator>mikemeyer</creator>
+  <meta rel="https://rdio.com/xspf/key">p420415</meta>
+  <meta rel="https://rdio.com/xspf/name">All-Time Favs</meta>
+  <meta rel="https://rdio.com/xspf/owner">mikemeyer</meta>
+  <meta rel="https://rdio.com/xspf/playlist_directory">3_playlists</meta>
+  <meta rel="https://rdio.com/xspf/playlist_type">created</meta>
+  <meta rel="https://rdio.com/xspf/url">/people/mikemeyer/playlists/420415/All-Time_Favs/</meta>
+  <trackList>
+    <track>
+      <title>Clint Eastwood</title>
+      <creator>Gorillaz</creator>
+      <album>Gorillaz</album>
+      <trackNum>5</trackNum>
+      <duration>340000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBAYE0001408</meta>
+    </track>
+    <track>
+      <title>Swallowed In The Sea</title>
+      <creator>Coldplay</creator>
+      <album>X &amp; Y</album>
+      <trackNum>11</trackNum>
+      <duration>238000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBAYE0500610</meta>
+    </track>
+    <track>
+      <title>Samson</title>
+      <creator>Regina Spektor</creator>
+      <album>Begin To Hope</album>
+      <trackNum>3</trackNum>
+      <duration>190000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USWB10601621</meta>
+    </track>
+    <track>
+      <title>Smoke And Mirrors</title>
+      <creator>Gotye</creator>
+      <album>Making Mirrors</album>
+      <trackNum>5</trackNum>
+      <duration>313000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">AUZS21100042</meta>
+    </track>
+    <track>
+      <title>Steppin Up</title>
+      <creator>M.I.A.</creator>
+      <album>MAYA (Deluxe)</album>
+      <trackNum>2</trackNum>
+      <duration>241000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBBKS1000156</meta>
+    </track>
+    <track>
+      <title>Princess of China</title>
+      <creator>Coldplay</creator>
+      <album>Mylo Xyloto</album>
+      <trackNum>10</trackNum>
+      <duration>239000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBAYE1101184</meta>
+    </track>
+  </trackList>
+</playlist>

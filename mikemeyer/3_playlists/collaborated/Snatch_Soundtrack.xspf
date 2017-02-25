@@ -1,0 +1,124 @@
+<playlist xmlns="http://xspf.org/ns/0/" version="1">
+  <title>Snatch Soundtrack</title>
+  <creator>justinvoss</creator>
+  <meta rel="https://rdio.com/xspf/key">p320898</meta>
+  <meta rel="https://rdio.com/xspf/name">Snatch Soundtrack</meta>
+  <meta rel="https://rdio.com/xspf/owner">justinvoss</meta>
+  <meta rel="https://rdio.com/xspf/playlist_directory">3_playlists</meta>
+  <meta rel="https://rdio.com/xspf/playlist_type">collaborated</meta>
+  <meta rel="https://rdio.com/xspf/url">/people/justinvoss/playlists/320898/Snatch_Soundtrack/</meta>
+  <trackList>
+    <track>
+      <title>Diamond</title>
+      <creator>Klint</creator>
+      <album>Nothing Left of Us</album>
+      <trackNum>12</trackNum>
+      <duration>196000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBF3S1400045</meta>
+    </track>
+    <track>
+      <title>Cross The Tracks (We Better Go Back)</title>
+      <creator>The J.B.'s</creator>
+      <album>Funky Good Time: The Anthology</album>
+      <trackNum>26</trackNum>
+      <duration>198000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USF067400020</meta>
+    </track>
+    <track>
+      <title>Disco Science</title>
+      <creator>Mirwais</creator>
+      <album>Production (Deluxe Version)</album>
+      <trackNum>1</trackNum>
+      <duration>218000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">FRIDO1001380</meta>
+    </track>
+    <track>
+      <title>Golden Brown</title>
+      <creator>The Stranglers</creator>
+      <album>Feline</album>
+      <trackNum>5</trackNum>
+      <duration>209000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBAYE8100053</meta>
+    </track>
+    <track>
+      <title>Dreadlock Holiday</title>
+      <creator>10cc</creator>
+      <album>20th Century Masters: The Millennium Collection: Best Of 10cc</album>
+      <trackNum>10</trackNum>
+      <duration>301000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBF080080438</meta>
+    </track>
+    <track>
+      <title>Hot Pants / I'm Coming, I'm Coming</title>
+      <creator>Bobby Byrd</creator>
+      <album>Hot Pants! (The Amazing Bobby Byrd)</album>
+      <trackNum>1</trackNum>
+      <duration>152000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">FR6V81025104</meta>
+    </track>
+    <track>
+      <title>Lucky Star</title>
+      <creator>Madonna</creator>
+      <album>Madonna</album>
+      <trackNum>1</trackNum>
+      <duration>338000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USWB19902975</meta>
+    </track>
+    <track>
+      <title>Ghost Town (Extended Version)</title>
+      <creator>The Specials</creator>
+      <album>The Best Of The Specials</album>
+      <trackNum>16</trackNum>
+      <duration>359000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBAYK8100019</meta>
+    </track>
+    <track>
+      <title>The Sensual Woman (Instrumental)</title>
+      <creator>The Herbaliser</creator>
+      <album>Session 1</album>
+      <trackNum>3</trackNum>
+      <duration>261000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">DEG930900918</meta>
+    </track>
+    <track>
+      <title>Angel</title>
+      <creator>Massive Attack</creator>
+      <album>Mezzanine</album>
+      <trackNum>1</trackNum>
+      <duration>379000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBAAA9800327</meta>
+    </track>
+    <track>
+      <title>Fuckin' In The Bushes</title>
+      <creator>Oasis</creator>
+      <album>Standing on the Shoulder of Giants</album>
+      <trackNum>1</trackNum>
+      <duration>199000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBBQY9902005</meta>
+    </track>
+    <track>
+      <title>Don't You Just Know It</title>
+      <creator>Huey "Piano" Smith</creator>
+      <album>Young Blood</album>
+      <trackNum>6</trackNum>
+      <duration>231000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USA560773382</meta>
+    </track>
+    <track>
+      <title>Supermoves (Album Version)</title>
+      <creator>Overseer</creator>
+      <album>Wreckage</album>
+      <trackNum>3</trackNum>
+      <duration>287000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USSM10306303</meta>
+    </track>
+    <track>
+      <title>Hot Pants - I'm Coming, I'm Coming</title>
+      <creator>Bobby Byrd</creator>
+      <album>Hot Pants! - The Amazing Bobby Byrd</album>
+      <trackNum>1</trackNum>
+      <duration>152000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">DEBL61018356</meta>
+    </track>
+  </trackList>
+</playlist>

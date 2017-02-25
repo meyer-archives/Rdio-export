@@ -1,0 +1,36 @@
+<playlist xmlns="http://xspf.org/ns/0/" version="1">
+  <title>Mood</title>
+  <creator>mikemeyer</creator>
+  <meta rel="https://rdio.com/xspf/key">p2221294</meta>
+  <meta rel="https://rdio.com/xspf/name">Mood</meta>
+  <meta rel="https://rdio.com/xspf/owner">mikemeyer</meta>
+  <meta rel="https://rdio.com/xspf/playlist_directory">3_playlists</meta>
+  <meta rel="https://rdio.com/xspf/playlist_type">created</meta>
+  <meta rel="https://rdio.com/xspf/url">/people/mikemeyer/playlists/2221294/Mood/</meta>
+  <trackList>
+    <track>
+      <title>La Corde</title>
+      <creator>Yann Tiersen</creator>
+      <album>Tabarly / B.O.F De Yann Tiersen</album>
+      <trackNum>10</trackNum>
+      <duration>78000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">FR26S0800036</meta>
+    </track>
+    <track>
+      <title>Atlantique Nord</title>
+      <creator>Yann Tiersen</creator>
+      <album>Tabarly / B.O.F De Yann Tiersen</album>
+      <trackNum>14</trackNum>
+      <duration>158000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">FR26S0800040</meta>
+    </track>
+    <track>
+      <title>Tabarly</title>
+      <creator>Yann Tiersen</creator>
+      <album>Tabarly / B.O.F De Yann Tiersen</album>
+      <trackNum>1</trackNum>
+      <duration>185000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">FR26S0800027</meta>
+    </track>
+  </trackList>
+</playlist>

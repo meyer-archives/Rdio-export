@@ -1,0 +1,1052 @@
+<playlist xmlns="http://xspf.org/ns/0/" version="1">
+  <title>Feeling good</title>
+  <creator>owltastic</creator>
+  <meta rel="https://rdio.com/xspf/key">p992972</meta>
+  <meta rel="https://rdio.com/xspf/name">Feeling good</meta>
+  <meta rel="https://rdio.com/xspf/owner">owltastic</meta>
+  <meta rel="https://rdio.com/xspf/playlist_directory">1_favorites</meta>
+  <meta rel="https://rdio.com/xspf/playlist_type">favorites_playlists</meta>
+  <meta rel="https://rdio.com/xspf/url">/people/owltastic/playlists/992972/Feeling_good/</meta>
+  <trackList>
+    <track>
+      <title>Home</title>
+      <creator>Edward Sharpe &amp; The Magnetic Zeros</creator>
+      <album>Edward Sharpe &amp; The Magnetic Zeros</album>
+      <trackNum>6</trackNum>
+      <duration>303000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USVR90954206</meta>
+    </track>
+    <track>
+      <title>Cavalier Eternal</title>
+      <creator>Against Me!</creator>
+      <album>The Original Cowboy</album>
+      <trackNum>5</trackNum>
+      <duration>172000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USFW40974305</meta>
+    </track>
+    <track>
+      <title>Heartilation</title>
+      <creator>Andrew Jackson Jihad</creator>
+      <album>Can't Maintain</album>
+      <trackNum>1</trackNum>
+      <duration>122000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">US4ZV0910377</meta>
+    </track>
+    <track>
+      <title>Ladykiller</title>
+      <creator>Andrew Jackson Jihad</creator>
+      <album>Candy Cigarettes, Capguns, Issue Problems! and Such</album>
+      <trackNum>8</trackNum>
+      <duration>79000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">US4ZV1110038</meta>
+    </track>
+    <track>
+      <title>The Suburbs</title>
+      <creator>Arcade Fire</creator>
+      <album>The Suburbs</album>
+      <trackNum>1</trackNum>
+      <duration>315000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBUM71018417</meta>
+    </track>
+    <track>
+      <title>City With No Children</title>
+      <creator>Arcade Fire</creator>
+      <album>The Suburbs</album>
+      <trackNum>6</trackNum>
+      <duration>191000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBUM71021637</meta>
+    </track>
+    <track>
+      <title>Love Letter To Japan</title>
+      <creator>The Bird and the Bee</creator>
+      <album>Ray Guns Are Not Just The Future</album>
+      <trackNum>6</trackNum>
+      <duration>247000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USBN20800599</meta>
+    </track>
+    <track>
+      <title>Another Travelin' Song</title>
+      <creator>Bright Eyes</creator>
+      <album>I'm Wide Awake It's Morning</album>
+      <trackNum>7</trackNum>
+      <duration>256000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">US2U60507207</meta>
+    </track>
+    <track>
+      <title>The Ghost Inside</title>
+      <creator>Broken Bells</creator>
+      <album>Broken Bells</album>
+      <trackNum>4</trackNum>
+      <duration>198000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USSM10906527</meta>
+    </track>
+    <track>
+      <title>The Skin of My Yellow Country Teeth</title>
+      <creator>Clap Your Hands Say Yeah</creator>
+      <album>Clap Your Hands Say Yeah</album>
+      <trackNum>6</trackNum>
+      <duration>343000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">US99Z0500006,GBDNH0500764</meta>
+    </track>
+    <track>
+      <title>West Coast</title>
+      <creator>Coconut Records</creator>
+      <album>Nighttiming</album>
+      <trackNum>2</trackNum>
+      <duration>212000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USANG0720002</meta>
+    </track>
+    <track>
+      <title>Monday Morning</title>
+      <creator>Death Cab for Cutie</creator>
+      <album>Codes and Keys</album>
+      <trackNum>7</trackNum>
+      <duration>258000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USAT21100673</meta>
+    </track>
+    <track>
+      <title>O Valencia!</title>
+      <creator>The Decemberists</creator>
+      <album>The Crane Wife</album>
+      <trackNum>4</trackNum>
+      <duration>225000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USCA20601173</meta>
+    </track>
+    <track>
+      <title>Don't Carry It All</title>
+      <creator>The Decemberists</creator>
+      <album>The King Is Dead</album>
+      <trackNum>1</trackNum>
+      <duration>257000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USCA21002839</meta>
+    </track>
+    <track>
+      <title>Lonesome</title>
+      <creator>Dr. Dog</creator>
+      <album>Be The Void</album>
+      <trackNum>1</trackNum>
+      <duration>198000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USEP41130003</meta>
+    </track>
+    <track>
+      <title>Misfit</title>
+      <creator>Elefant</creator>
+      <album>Sunlight Makes Me Paranoid</album>
+      <trackNum>3</trackNum>
+      <duration>194000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USKDO0300003</meta>
+    </track>
+    <track>
+      <title>I Feel It All</title>
+      <creator>Feist</creator>
+      <album>The Reminder</album>
+      <trackNum>2</trackNum>
+      <duration>219000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">FRUM70600208</meta>
+    </track>
+    <track>
+      <title>Mushaboom</title>
+      <creator>Feist</creator>
+      <album>Let It Die</album>
+      <trackNum>2</trackNum>
+      <duration>225000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">FRZ020302530</meta>
+    </track>
+    <track>
+      <title>Ragged Wood</title>
+      <creator>Fleet Foxes</creator>
+      <album>Fleet Foxes</album>
+      <trackNum>3</trackNum>
+      <duration>305000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USSUB0877703,GBBRP0816703</meta>
+    </track>
+    <track>
+      <title>Hiphopopotamus vs. Rhymenoceros [feat. Rhymenocerous and the Hiphopopotamus]</title>
+      <creator>Flight Of The Conchords</creator>
+      <album>Flight Of The Conchords</album>
+      <trackNum>3</trackNum>
+      <duration>129000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USSUB0871503</meta>
+    </track>
+    <track>
+      <title>The Most Beautiful Girl [In The Room]</title>
+      <creator>Flight Of The Conchords</creator>
+      <album>Flight Of The Conchords</album>
+      <trackNum>12</trackNum>
+      <duration>242000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USSUB0871512</meta>
+    </track>
+    <track>
+      <title>Pumped up Kicks</title>
+      <creator>Foster The People</creator>
+      <album>Torches</album>
+      <trackNum>2</trackNum>
+      <duration>239000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USSM11002931</meta>
+    </track>
+    <track>
+      <title>Wrong Side</title>
+      <creator>French Kicks</creator>
+      <album>One Time Bells</album>
+      <trackNum>1</trackNum>
+      <duration>208000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">US4KM0510057</meta>
+    </track>
+    <track>
+      <title>Gone Daddy Gone/I Just Want To Make Love To You</title>
+      <creator>Gnarls Barkley</creator>
+      <album>St. Elsewhere</album>
+      <trackNum>4</trackNum>
+      <duration>148000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USAT20611043</meta>
+    </track>
+    <track>
+      <title>Tongue Tied</title>
+      <creator>Grouplove</creator>
+      <album>Never Trust A Happy Song</album>
+      <trackNum>2</trackNum>
+      <duration>218000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USAT21101334</meta>
+    </track>
+    <track>
+      <title>Itchin' On A Photograph</title>
+      <creator>Grouplove</creator>
+      <album>Never Trust A Happy Song</album>
+      <trackNum>1</trackNum>
+      <duration>259000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USAT21101074</meta>
+    </track>
+    <track>
+      <title>Oversleeping</title>
+      <creator>I'm From Barcelona</creator>
+      <album>Let Me Introduce My Friends</album>
+      <trackNum>1</trackNum>
+      <duration>138000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">SEAMA0600065</meta>
+    </track>
+    <track>
+      <title>The Way I Am</title>
+      <creator>Ingrid Michaelson</creator>
+      <album>Girls and Boys</album>
+      <trackNum>5</trackNum>
+      <duration>135000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USCGH0789382</meta>
+    </track>
+    <track>
+      <title>Oh Yoko</title>
+      <creator>John Lennon</creator>
+      <album>Rushmore</album>
+      <trackNum>18</trackNum>
+      <duration>256000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBAYE7100018</meta>
+    </track>
+    <track>
+      <title>In Spite of Ourselves</title>
+      <creator>John Prine, Iris DeMent</creator>
+      <album>Cool As Folk</album>
+      <trackNum>13</trackNum>
+      <duration>183000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GB7VZ1100024</meta>
+    </track>
+    <track>
+      <title>Folsom Prison Blues (Live)</title>
+      <creator>Johnny Cash</creator>
+      <album>At Folsom Prison</album>
+      <trackNum>1</trackNum>
+      <duration>162000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USSM16801298</meta>
+    </track>
+    <track>
+      <title>Ring Of Fire</title>
+      <creator>Johnny Cash</creator>
+      <album>The Hits</album>
+      <trackNum>4</trackNum>
+      <duration>163000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USMR18886880</meta>
+    </track>
+    <track>
+      <title>Deceptacon</title>
+      <creator>Le Tigre</creator>
+      <album>Le Tigre</album>
+      <trackNum>1</trackNum>
+      <duration>184000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">US3T50400001</meta>
+    </track>
+    <track>
+      <title>The Swimming Song (Album Version)</title>
+      <creator>Loudon Wainwright III</creator>
+      <album>Attempted Mustache</album>
+      <trackNum>1</trackNum>
+      <duration>147000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USSM17300491</meta>
+    </track>
+    <track>
+      <title>Dance, Dance, Dance</title>
+      <creator>Lykke Li</creator>
+      <album>Youth Novels</album>
+      <trackNum>2</trackNum>
+      <duration>221000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">SEVUM0700801</meta>
+    </track>
+    <track>
+      <title>Paper Planes</title>
+      <creator>M.I.A.</creator>
+      <album>Kala</album>
+      <trackNum>10</trackNum>
+      <duration>204000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBBKS0700215</meta>
+    </track>
+    <track>
+      <title>Daylight</title>
+      <creator>Matt and Kim</creator>
+      <album>Grand</album>
+      <trackNum>1</trackNum>
+      <duration>171000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">US4HB0915501</meta>
+    </track>
+    <track>
+      <title>Good Ol' Fashion Nightmare</title>
+      <creator>Matt and Kim</creator>
+      <album>Grand</album>
+      <trackNum>3</trackNum>
+      <duration>209000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">US4HB0915503</meta>
+    </track>
+    <track>
+      <title>King of Carrot Flowers Pt. 1</title>
+      <creator>Neutral Milk Hotel</creator>
+      <album>In the Aeroplane Over the Sea</album>
+      <trackNum>1</trackNum>
+      <duration>120000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USMRG0316015</meta>
+    </track>
+    <track>
+      <title>Holland, 1945</title>
+      <creator>Neutral Milk Hotel</creator>
+      <album>In the Aeroplane Over the Sea</album>
+      <trackNum>6</trackNum>
+      <duration>192000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USMRG0316020</meta>
+    </track>
+    <track>
+      <title>Sleepyhead (Album Version)</title>
+      <creator>Passion Pit</creator>
+      <album>Manners</album>
+      <trackNum>9</trackNum>
+      <duration>175000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USSM10901014</meta>
+    </track>
+    <track>
+      <title>1901</title>
+      <creator>Phoenix</creator>
+      <album>Wolfgang Amadeus Phoenix</album>
+      <trackNum>2</trackNum>
+      <duration>193000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBUM70902408,FR31Q0900002</meta>
+    </track>
+    <track>
+      <title>Smoke Detector</title>
+      <creator>Rilo Kiley</creator>
+      <album>Under The Blacklight</album>
+      <trackNum>9</trackNum>
+      <duration>178000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USWB10703021</meta>
+    </track>
+    <track>
+      <title>Call Your Girlfriend</title>
+      <creator>Robyn</creator>
+      <album>Body Talk</album>
+      <trackNum>8</trackNum>
+      <duration>227000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">SEWKZ1000231</meta>
+    </track>
+    <track>
+      <title>Dancing On My Own</title>
+      <creator>Robyn</creator>
+      <album>Body Talk Pt. 1</album>
+      <trackNum>3</trackNum>
+      <duration>289000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">SEWKZ1000003</meta>
+    </track>
+    <track>
+      <title>I'm Not Gonna Teach Your Boyfriend How to Dance with You</title>
+      <creator>Black Kids</creator>
+      <album>Partie Traumatic</album>
+      <trackNum>7</trackNum>
+      <duration>217000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBUM70801873</meta>
+    </track>
+    <track>
+      <title>Wigwam (Album Version)</title>
+      <creator>Bob Dylan</creator>
+      <album>Self Portrait</album>
+      <trackNum>23</trackNum>
+      <duration>187000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USSM19923038</meta>
+    </track>
+    <track>
+      <title>Me and Julio Down by the Schoolyard (Demo - San Francisco 2/71)</title>
+      <creator>Paul Simon</creator>
+      <album>Paul Simon</album>
+      <trackNum>12</trackNum>
+      <duration>147000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USSM11002072</meta>
+    </track>
+    <track>
+      <title>You Can't Always Get What You Want</title>
+      <creator>The Rolling Stones</creator>
+      <album>Let It Bleed</album>
+      <trackNum>9</trackNum>
+      <duration>449000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USA176910100</meta>
+    </track>
+    <track>
+      <title>Beast Of Burden</title>
+      <creator>The Rolling Stones</creator>
+      <album>Some Girls (Deluxe Version)</album>
+      <trackNum>9</trackNum>
+      <duration>265000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBCJN7800009</meta>
+    </track>
+    <track>
+      <title>This Time Tomorrow</title>
+      <creator>The Kinks</creator>
+      <album>The Darjeeling Limited (Original Soundtrack)</album>
+      <trackNum>3</trackNum>
+      <duration>206000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USA170770010</meta>
+    </track>
+    <track>
+      <title>Off To The Races</title>
+      <creator>Lana Del Rey</creator>
+      <album>Born To Die (Deluxe Version)</album>
+      <trackNum>2</trackNum>
+      <duration>300000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBUM71111530</meta>
+    </track>
+    <track>
+      <title>Cheek To Cheek</title>
+      <creator>Ella Fitzgerald &amp; Louis Armstrong</creator>
+      <album>The Complete Ella And Louis On Verve</album>
+      <trackNum>9</trackNum>
+      <duration>355000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USPR35612075</meta>
+    </track>
+    <track>
+      <title>Autumn In New York</title>
+      <creator>Ella Fitzgerald &amp; Louis Armstrong</creator>
+      <album>The Complete Ella And Louis On Verve</album>
+      <trackNum>16</trackNum>
+      <duration>358000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USF095800290,USPR35712068</meta>
+    </track>
+    <track>
+      <title>If You Want To Sing Out, Sing Out</title>
+      <creator>Cat Stevens</creator>
+      <album>Gold</album>
+      <trackNum>12</trackNum>
+      <duration>166000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBAAN8400009</meta>
+    </track>
+    <track>
+      <title>Party Rock Anthem</title>
+      <creator>LMFAO</creator>
+      <album>Party Rock Anthem</album>
+      <trackNum>1</trackNum>
+      <duration>263000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USUM71100061</meta>
+    </track>
+    <track>
+      <title>OMG</title>
+      <creator>Usher</creator>
+      <album>Raymond v Raymond</album>
+      <trackNum>6</trackNum>
+      <duration>269000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USLF20900103</meta>
+    </track>
+    <track>
+      <title>Run The World (Girls)</title>
+      <creator>Beyoncé</creator>
+      <album>4</album>
+      <trackNum>12</trackNum>
+      <duration>236000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USSM11102447</meta>
+    </track>
+    <track>
+      <title>I'm Real (Murder Remix featuring Ja Rule)</title>
+      <creator>Jennifer Lopez</creator>
+      <album>J.Lo</album>
+      <trackNum>16</trackNum>
+      <duration>262000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USSM10106880</meta>
+    </track>
+    <track>
+      <title>Good Feeling</title>
+      <creator>Flo Rida</creator>
+      <album>Good Feeling</album>
+      <trackNum>1</trackNum>
+      <duration>248000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USAT21101961</meta>
+    </track>
+    <track>
+      <title>Glad You Came</title>
+      <creator>The Wanted</creator>
+      <album>Glad You Came</album>
+      <trackNum>1</trackNum>
+      <duration>198000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBUM71104495,GBUM71107952</meta>
+    </track>
+    <track>
+      <title>Pumped up Kicks</title>
+      <creator>Foster The People</creator>
+      <album>Torches</album>
+      <trackNum>2</trackNum>
+      <duration>239000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USSM11002931</meta>
+    </track>
+    <track>
+      <title>Call Me Maybe</title>
+      <creator>Carly Rae Jepsen</creator>
+      <album>Call Me Maybe</album>
+      <trackNum>1</trackNum>
+      <duration>193000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">CAB391100615</meta>
+    </track>
+    <track>
+      <title>Halo</title>
+      <creator>Beyoncé</creator>
+      <album>I AM...SASHA FIERCE</album>
+      <trackNum>2</trackNum>
+      <duration>261000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USSM10804556</meta>
+    </track>
+    <track>
+      <title>Give Me Everything</title>
+      <creator>Pitbull feat. Ne-Yo, Afrojack &amp; Nayer</creator>
+      <album>Give Me Everything feat. Ne-Yo, Afrojack &amp; Nayer</album>
+      <trackNum>1</trackNum>
+      <duration>256000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USJAY1100032</meta>
+    </track>
+    <track>
+      <title>Yeah!</title>
+      <creator>Usher</creator>
+      <album>Confessions</album>
+      <trackNum>2</trackNum>
+      <duration>250000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USAR10301423</meta>
+    </track>
+    <track>
+      <title>Dirt Off Your Shoulder</title>
+      <creator>Jay-Z</creator>
+      <album>The Black Album 2</album>
+      <trackNum>6</trackNum>
+      <duration>245000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USDJ20301457</meta>
+    </track>
+    <track>
+      <title>Some Nights</title>
+      <creator>fun.</creator>
+      <album>Some Nights</album>
+      <trackNum>2</trackNum>
+      <duration>277000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USAT21300230,USAT21104050</meta>
+    </track>
+    <track>
+      <title>Gangnam Style (강남스타일)</title>
+      <creator>Psy</creator>
+      <album>Gangnam Style (강남스타일)</album>
+      <trackNum>1</trackNum>
+      <duration>219000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USUM71210283</meta>
+    </track>
+    <track>
+      <title>Feeling Good</title>
+      <creator>Muse</creator>
+      <album>Origin Of Symmetry (New 09 version)</album>
+      <trackNum>8</trackNum>
+      <duration>199000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBCVT0100018</meta>
+    </track>
+    <track>
+      <title>I Turn My Camera On</title>
+      <creator>Spoon</creator>
+      <album>Gimme Fiction</album>
+      <trackNum>3</trackNum>
+      <duration>212000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USMRG0540051</meta>
+    </track>
+    <track>
+      <title>The Underdog</title>
+      <creator>Spoon</creator>
+      <album>Ga Ga Ga Ga Ga</album>
+      <trackNum>7</trackNum>
+      <duration>222000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USMRG0729507</meta>
+    </track>
+    <track>
+      <title>Buddy Holly</title>
+      <creator>Weezer</creator>
+      <album>Weezer</album>
+      <trackNum>4</trackNum>
+      <duration>159000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USGF19562907</meta>
+    </track>
+    <track>
+      <title>Island In The Sun</title>
+      <creator>Weezer</creator>
+      <album>Weezer (Green Album)</album>
+      <trackNum>4</trackNum>
+      <duration>200000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USIR10110358</meta>
+    </track>
+    <track>
+      <title>Whole Wide World</title>
+      <creator>Bahamas</creator>
+      <album>Pink Strat</album>
+      <trackNum>12</trackNum>
+      <duration>155000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">CAND60800083</meta>
+    </track>
+    <track>
+      <title>Here It Goes Again</title>
+      <creator>OK Go</creator>
+      <album>Oh No</album>
+      <trackNum>3</trackNum>
+      <duration>179000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USCA20500270</meta>
+    </track>
+    <track>
+      <title>Get Over It</title>
+      <creator>OK Go</creator>
+      <album>Ok Go</album>
+      <trackNum>1</trackNum>
+      <duration>196000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USCA20200299</meta>
+    </track>
+    <track>
+      <title>Saturday In The Park (Remastered Version)</title>
+      <creator>Chicago</creator>
+      <album>The Very Best Of: Only The Beginning</album>
+      <trackNum>10</trackNum>
+      <duration>239000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USRH10291749</meta>
+    </track>
+    <track>
+      <title>More Than a Feeling</title>
+      <creator>Boston</creator>
+      <album>Boston</album>
+      <trackNum>1</trackNum>
+      <duration>285000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USSM17600047,USSM17600941,USSM19804762</meta>
+    </track>
+    <track>
+      <title>Good As New</title>
+      <creator>Vacationer</creator>
+      <album>Gone</album>
+      <trackNum>2</trackNum>
+      <duration>204000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USCJ81100803</meta>
+    </track>
+    <track>
+      <title>Wonderful People</title>
+      <creator>Q and Not U</creator>
+      <album>Power</album>
+      <trackNum>1</trackNum>
+      <duration>187000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">US35U0414301</meta>
+    </track>
+    <track>
+      <title>Happy Up Here</title>
+      <creator>Röyksopp</creator>
+      <album>Junior</album>
+      <trackNum>1</trackNum>
+      <duration>165000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">FRZ110802634</meta>
+    </track>
+    <track>
+      <title>Tighten Up</title>
+      <creator>The Black Keys</creator>
+      <album>Brothers</album>
+      <trackNum>3</trackNum>
+      <duration>211000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USNO11000078</meta>
+    </track>
+    <track>
+      <title>Howlin' For You</title>
+      <creator>The Black Keys</creator>
+      <album>Brothers</album>
+      <trackNum>4</trackNum>
+      <duration>191000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USNO11000079</meta>
+    </track>
+    <track>
+      <title>Song 2</title>
+      <creator>Blur</creator>
+      <album>Blur</album>
+      <trackNum>2</trackNum>
+      <duration>121000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBAYE9600015</meta>
+    </track>
+    <track>
+      <title>Lights</title>
+      <creator>Ellie Goulding</creator>
+      <album>Lights</album>
+      <trackNum>1</trackNum>
+      <duration>212000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBUM71028043</meta>
+    </track>
+    <track>
+      <title>Break My Stride</title>
+      <creator>Matthew Wilder</creator>
+      <album>I Don't Speak The Language</album>
+      <trackNum>1</trackNum>
+      <duration>184000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USSM18300576</meta>
+    </track>
+    <track>
+      <title>Hawaii (Album Version)</title>
+      <creator>Mew</creator>
+      <album>No more stories Are told today I'm sorry They washed away No more stories The world is grey I'm tired Let's wash away</album>
+      <trackNum>9</trackNum>
+      <duration>301000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USSM10903011</meta>
+    </track>
+    <track>
+      <title>I Want You Back</title>
+      <creator>The Jackson 5</creator>
+      <album>Greatest Hits</album>
+      <trackNum>1</trackNum>
+      <duration>178000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USMO19400306</meta>
+    </track>
+    <track>
+      <title>ABC</title>
+      <creator>The Jackson 5</creator>
+      <album>Greatest Hits</album>
+      <trackNum>2</trackNum>
+      <duration>177000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USMO17082628</meta>
+    </track>
+    <track>
+      <title>Be My Baby</title>
+      <creator>The Ronettes</creator>
+      <album>The Phil Spector Collection</album>
+      <trackNum>27</trackNum>
+      <duration>159000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USQX91000404</meta>
+    </track>
+    <track>
+      <title>Age Of Consent</title>
+      <creator>New Order</creator>
+      <album>Power, Corruption &amp; Lies [Collector's Edition]</album>
+      <trackNum>1</trackNum>
+      <duration>315000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBCRL0800411</meta>
+    </track>
+    <track>
+      <title>You! Me! Dancing!</title>
+      <creator>Los Campesinos!</creator>
+      <album>Sticking Fingers Into Sockets</album>
+      <trackNum>5</trackNum>
+      <duration>374000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBDNH0600910</meta>
+    </track>
+    <track>
+      <title>California</title>
+      <creator>The Kooks</creator>
+      <album>Naïve</album>
+      <trackNum>4</trackNum>
+      <duration>129000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBAAA0500538</meta>
+    </track>
+    <track>
+      <title>My Friends Over You</title>
+      <creator>New Found Glory</creator>
+      <album>Sticks and Stones</album>
+      <trackNum>2</trackNum>
+      <duration>220000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USMC10200363</meta>
+    </track>
+    <track>
+      <title>What's My Age Again?</title>
+      <creator>Blink-182</creator>
+      <album>Enema Of The State</album>
+      <trackNum>5</trackNum>
+      <duration>150000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USMC19959007</meta>
+    </track>
+    <track>
+      <title>In the Mood</title>
+      <creator>Glenn Miller</creator>
+      <album>In the Mood With</album>
+      <trackNum>6</trackNum>
+      <duration>215000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">SEWDL0347606</meta>
+    </track>
+    <track>
+      <title>J'Aime Ta Femme (I Like Your Girl)</title>
+      <creator>The Planet Smashers</creator>
+      <album>Mighty</album>
+      <trackNum>4</trackNum>
+      <duration>166000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USA560442555</meta>
+    </track>
+    <track>
+      <title>Come on Eileen</title>
+      <creator>Save Ferris</creator>
+      <album>It Means Everything</album>
+      <trackNum>4</trackNum>
+      <duration>249000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USSM19700774</meta>
+    </track>
+    <track>
+      <title>Kilojoules</title>
+      <creator>Freelance Whales</creator>
+      <album>Weathervanes</album>
+      <trackNum>6</trackNum>
+      <duration>200000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USQE90900055,USQED0900055</meta>
+    </track>
+    <track>
+      <title>Two Weeks</title>
+      <creator>Grizzly Bear</creator>
+      <album>Veckatimest</album>
+      <trackNum>2</trackNum>
+      <duration>243000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBBPW0900065</meta>
+    </track>
+    <track>
+      <title>Pentagram</title>
+      <creator>Cake</creator>
+      <album>Motorcade of Generosity</album>
+      <trackNum>4</trackNum>
+      <duration>139000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USGHH0800017</meta>
+    </track>
+    <track>
+      <title>Seven Seas Of Rhye</title>
+      <creator>Queen</creator>
+      <album>Greatest Hits 1 &amp; 2</album>
+      <trackNum>15</trackNum>
+      <duration>169000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBCEE7400028</meta>
+    </track>
+    <track>
+      <title>Bicycle Race</title>
+      <creator>Queen</creator>
+      <album>Greatest Hits 1 &amp; 2</album>
+      <trackNum>5</trackNum>
+      <duration>182000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBCEG7800006</meta>
+    </track>
+    <track>
+      <title>Don't Stop Me Now</title>
+      <creator>Queen</creator>
+      <album>Greatest Hits 1 &amp; 2</album>
+      <trackNum>7</trackNum>
+      <duration>210000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBCEG7800014</meta>
+    </track>
+    <track>
+      <title>Bohemian Rhapsody</title>
+      <creator>Queen</creator>
+      <album>Greatest Hits 1 &amp; 2</album>
+      <trackNum>1</trackNum>
+      <duration>357000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBCEE7500015</meta>
+    </track>
+    <track>
+      <title>Till the World Ends</title>
+      <creator>Britney Spears</creator>
+      <album>Femme Fatale (Deluxe Version)</album>
+      <trackNum>1</trackNum>
+      <duration>237000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USJI11100074</meta>
+    </track>
+    <track>
+      <title>...Baby One More Time</title>
+      <creator>Britney Spears</creator>
+      <album>Baby One More Time</album>
+      <trackNum>1</trackNum>
+      <duration>210000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USJI19810404</meta>
+    </track>
+    <track>
+      <title>Don't You Evah</title>
+      <creator>Spoon</creator>
+      <album>Ga Ga Ga Ga Ga</album>
+      <trackNum>4</trackNum>
+      <duration>217000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USMRG0729504</meta>
+    </track>
+    <track>
+      <title>Holiday</title>
+      <creator>Madonna</creator>
+      <album>Celebration (single disc version)</album>
+      <trackNum>5</trackNum>
+      <duration>368000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USWB10903602</meta>
+    </track>
+    <track>
+      <title>Vogue</title>
+      <creator>Madonna</creator>
+      <album>Celebration (single disc version)</album>
+      <trackNum>3</trackNum>
+      <duration>316000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USWB10903600</meta>
+    </track>
+    <track>
+      <title>Hand In My Pocket</title>
+      <creator>Alanis Morissette</creator>
+      <album>Jagged Little Pill</album>
+      <trackNum>4</trackNum>
+      <duration>222000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USMV29900093</meta>
+    </track>
+    <track>
+      <title>Walking On Sunshine (Digitally Remastered)</title>
+      <creator>Katrina &amp; The Waves</creator>
+      <album>Hit Me With Your 80's Box</album>
+      <trackNum>23</trackNum>
+      <duration>238000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USCA29100698</meta>
+    </track>
+    <track>
+      <title>Party In The U.S.A.</title>
+      <creator>Miley Cyrus</creator>
+      <album>The Time Of Our Lives</album>
+      <trackNum>2</trackNum>
+      <duration>202000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USHR10924519</meta>
+    </track>
+    <track>
+      <title>I Say A Little Prayer</title>
+      <creator>Aretha Franklin</creator>
+      <album>Soul Queen</album>
+      <trackNum>25</trackNum>
+      <duration>212000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USAT29902236</meta>
+    </track>
+    <track>
+      <title>I'm so Excited</title>
+      <creator>The Pointer Sisters</creator>
+      <album>Break Out</album>
+      <trackNum>3</trackNum>
+      <duration>293000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USRC18207960</meta>
+    </track>
+    <track>
+      <title>Breakin' Up</title>
+      <creator>Rilo Kiley</creator>
+      <album>Under The Blacklight</album>
+      <trackNum>4</trackNum>
+      <duration>217000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USWB10703016</meta>
+    </track>
+    <track>
+      <title>Dejalo</title>
+      <creator>Rilo Kiley</creator>
+      <album>Under The Blacklight</album>
+      <trackNum>7</trackNum>
+      <duration>197000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USWB10703019</meta>
+    </track>
+    <track>
+      <title>With Arms Outstretched</title>
+      <creator>Rilo Kiley</creator>
+      <album>The Execution of All Things</album>
+      <trackNum>10</trackNum>
+      <duration>223000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">US2U60404710</meta>
+    </track>
+    <track>
+      <title>Go Ahead</title>
+      <creator>Rilo Kiley</creator>
+      <album>Take Offs and Landings</album>
+      <trackNum>1</trackNum>
+      <duration>214000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USBS50310136</meta>
+    </track>
+    <track>
+      <title>Falling Without Knowing</title>
+      <creator>Tilly And The Wall</creator>
+      <album>o</album>
+      <trackNum>8</trackNum>
+      <duration>185000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">US58B0803108</meta>
+    </track>
+    <track>
+      <title>Beat Control</title>
+      <creator>Tilly And The Wall</creator>
+      <album>Beat Control</album>
+      <trackNum>1</trackNum>
+      <duration>173000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">US58B0802801</meta>
+    </track>
+    <track>
+      <title>Daydream</title>
+      <creator>The Lovin' Spoonful</creator>
+      <album>The Greatest Hits</album>
+      <trackNum>3</trackNum>
+      <duration>139000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USBR16600005</meta>
+    </track>
+    <track>
+      <title>Lately</title>
+      <creator>The Helio Sequence</creator>
+      <album>Keep Your Eyes Ahead</album>
+      <trackNum>1</trackNum>
+      <duration>250000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USSUB0770901</meta>
+    </track>
+    <track>
+      <title>Mountain Sound</title>
+      <creator>Of Monsters And Men</creator>
+      <album>My Head Is An Animal</album>
+      <trackNum>3</trackNum>
+      <duration>211000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USUM71202068</meta>
+    </track>
+    <track>
+      <title>Take a Walk</title>
+      <creator>Passion Pit</creator>
+      <album>Gossamer</album>
+      <trackNum>1</trackNum>
+      <duration>262000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USSM11202617</meta>
+    </track>
+    <track>
+      <title>Teenage Dream</title>
+      <creator>Katy Perry</creator>
+      <album>Teenage Dream</album>
+      <trackNum>1</trackNum>
+      <duration>228000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USCA21001255</meta>
+    </track>
+    <track>
+      <title>Teenage Dream</title>
+      <creator>Katy Perry</creator>
+      <album>Teenage Dream</album>
+      <trackNum>1</trackNum>
+      <duration>228000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USCA21001255</meta>
+    </track>
+    <track>
+      <title>Whistle</title>
+      <creator>Flo Rida</creator>
+      <album>Whistle</album>
+      <trackNum>1</trackNum>
+      <duration>225000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USAT21201745</meta>
+    </track>
+    <track>
+      <title>Jamming (US Version)</title>
+      <creator>Bob Marley &amp; The Wailers</creator>
+      <album>Legend (Deluxe Edition)</album>
+      <trackNum>25</trackNum>
+      <duration>201000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USIR20200005</meta>
+    </track>
+  </trackList>
+</playlist>

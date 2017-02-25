@@ -1,0 +1,356 @@
+<playlist xmlns="http://xspf.org/ns/0/" version="1">
+  <title>Classics</title>
+  <creator>jenniferweiss</creator>
+  <meta rel="https://rdio.com/xspf/key">p2337710</meta>
+  <meta rel="https://rdio.com/xspf/name">Classics</meta>
+  <meta rel="https://rdio.com/xspf/owner">jenniferweiss</meta>
+  <meta rel="https://rdio.com/xspf/playlist_directory">1_favorites</meta>
+  <meta rel="https://rdio.com/xspf/playlist_type">favorites_playlists</meta>
+  <meta rel="https://rdio.com/xspf/url">/people/jenniferweiss/playlists/2337710/Classics/</meta>
+  <trackList>
+    <track>
+      <title>More Than a Feeling</title>
+      <creator>Boston</creator>
+      <album>Boston</album>
+      <trackNum>1</trackNum>
+      <duration>285000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USSM17600047,USSM17600941,USSM19804762</meta>
+    </track>
+    <track>
+      <title>Rock &amp; Roll Band</title>
+      <creator>Boston</creator>
+      <album>Boston</album>
+      <trackNum>4</trackNum>
+      <duration>180000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USSM17600646,USSM17600048,USSM19804765</meta>
+    </track>
+    <track>
+      <title>Foreplay / Long Time</title>
+      <creator>Boston</creator>
+      <album>Boston</album>
+      <trackNum>3</trackNum>
+      <duration>468000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USSM17600051,USSM10600744,USSM19804764</meta>
+    </track>
+    <track>
+      <title>Amanda</title>
+      <creator>Boston</creator>
+      <album>Third Stage</album>
+      <trackNum>1</trackNum>
+      <duration>257000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USMC18621437</meta>
+    </track>
+    <track>
+      <title>Money For Nothing</title>
+      <creator>Dire Straits</creator>
+      <album>Brothers In Arms</album>
+      <trackNum>2</trackNum>
+      <duration>506000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBF088500674</meta>
+    </track>
+    <track>
+      <title>Sultans Of Swing</title>
+      <creator>Dire Straits</creator>
+      <album>Dire Straits (Remastered)</album>
+      <trackNum>6</trackNum>
+      <duration>348000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBF089601041</meta>
+    </track>
+    <track>
+      <title>The Boys Of Summer</title>
+      <creator>Don Henley</creator>
+      <album>The Very Best Of</album>
+      <trackNum>2</trackNum>
+      <duration>288000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USGF18502601</meta>
+    </track>
+    <track>
+      <title>Two Tickets to Paradise</title>
+      <creator>Eddie Money</creator>
+      <album>Eddie Money</album>
+      <trackNum>1</trackNum>
+      <duration>237000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USSM17700223</meta>
+    </track>
+    <track>
+      <title>Take Me Home Tonight</title>
+      <creator>Eddie Money</creator>
+      <album>The Essential Eddie Money</album>
+      <trackNum>10</trackNum>
+      <duration>210000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USSM18500149</meta>
+    </track>
+    <track>
+      <title>Feels Like The First Time</title>
+      <creator>Foreigner</creator>
+      <album>Foreigner [Expanded]</album>
+      <trackNum>1</trackNum>
+      <duration>234000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USAT29900668</meta>
+    </track>
+    <track>
+      <title>Cold As Ice</title>
+      <creator>Foreigner</creator>
+      <album>Foreigner [Expanded]</album>
+      <trackNum>2</trackNum>
+      <duration>200000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USAT29900657</meta>
+    </track>
+    <track>
+      <title>Head Games</title>
+      <creator>Foreigner</creator>
+      <album>Head Games</album>
+      <trackNum>6</trackNum>
+      <duration>217000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USAT20901939</meta>
+    </track>
+    <track>
+      <title>Hot Blooded</title>
+      <creator>Foreigner</creator>
+      <album>No End In Sight: The Very Best Of Foreigner</album>
+      <trackNum>8</trackNum>
+      <duration>268000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USAT20802331</meta>
+    </track>
+    <track>
+      <title>Heartbreaker</title>
+      <creator>Pat Benatar</creator>
+      <album>In The Heat Of The Night</album>
+      <trackNum>1</trackNum>
+      <duration>209000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USCH38400033</meta>
+    </track>
+    <track>
+      <title>Keep on Loving You</title>
+      <creator>REO Speedwagon</creator>
+      <album>Hi Infidelity</album>
+      <trackNum>2</trackNum>
+      <duration>202000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USSM10012808</meta>
+    </track>
+    <track>
+      <title>Take It on the Run</title>
+      <creator>REO Speedwagon</creator>
+      <album>Hi Infidelity</album>
+      <trackNum>5</trackNum>
+      <duration>239000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USSM10012809</meta>
+    </track>
+    <track>
+      <title>No One Like You</title>
+      <creator>Scorpions</creator>
+      <album>Blackout</album>
+      <trackNum>3</trackNum>
+      <duration>237000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USMR18210006</meta>
+    </track>
+    <track>
+      <title>Still Loving You</title>
+      <creator>Scorpions</creator>
+      <album>Bad For Good: The Very Best Of Scorpions</album>
+      <trackNum>6</trackNum>
+      <duration>288000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USIR20200220</meta>
+    </track>
+    <track>
+      <title>Stop Draggin' My Heart Around (with Tom Petty and the Heartbreakers)</title>
+      <creator>Stevie Nicks</creator>
+      <album>Timespace - The Best Of Stevie Nicks</album>
+      <trackNum>2</trackNum>
+      <duration>244000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USAT20900670</meta>
+    </track>
+    <track>
+      <title>American Girl</title>
+      <creator>Tom Petty and the Heartbreakers</creator>
+      <album>Tom Petty &amp; The Heartbreakers</album>
+      <trackNum>10</trackNum>
+      <duration>215000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USMC17641688</meta>
+    </track>
+    <track>
+      <title>Refugee</title>
+      <creator>Tom Petty and the Heartbreakers</creator>
+      <album>Greatest Hits</album>
+      <trackNum>5</trackNum>
+      <duration>202000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USMC17909357</meta>
+    </track>
+    <track>
+      <title>Mary Jane's Last Dance</title>
+      <creator>Tom Petty and the Heartbreakers</creator>
+      <album>Greatest Hits</album>
+      <trackNum>17</trackNum>
+      <duration>274000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USMC19341704</meta>
+    </track>
+    <track>
+      <title>Free Fallin'</title>
+      <creator>Tom Petty and the Heartbreakers</creator>
+      <album>Greatest Hits</album>
+      <trackNum>14</trackNum>
+      <duration>256000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USMC18925673</meta>
+    </track>
+    <track>
+      <title>You Really Got Me</title>
+      <creator>Van Halen</creator>
+      <album>Van Halen</album>
+      <trackNum>3</trackNum>
+      <duration>161000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USWB17800053</meta>
+    </track>
+    <track>
+      <title>(Oh) Pretty Woman</title>
+      <creator>Van Halen</creator>
+      <album>Diver Down</album>
+      <trackNum>6</trackNum>
+      <duration>175000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USWB19903913</meta>
+    </track>
+    <track>
+      <title>Dance The Night Away</title>
+      <creator>Van Halen</creator>
+      <album>Van Halen II</album>
+      <trackNum>2</trackNum>
+      <duration>190000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USWB17800018</meta>
+    </track>
+    <track>
+      <title>Why Can't This Be Love</title>
+      <creator>Van Halen</creator>
+      <album>Best Of Volume 1</album>
+      <trackNum>9</trackNum>
+      <duration>228000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USWB18600007</meta>
+    </track>
+    <track>
+      <title>Can't Stop Lovin' You</title>
+      <creator>Van Halen</creator>
+      <album>Best Of Volume 1</album>
+      <trackNum>14</trackNum>
+      <duration>247000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USWB19400238</meta>
+    </track>
+    <track>
+      <title>Don't Tell Me [What Love Can Do]</title>
+      <creator>Van Halen</creator>
+      <album>Balance</album>
+      <trackNum>3</trackNum>
+      <duration>356000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USWB10902272</meta>
+    </track>
+    <track>
+      <title>Right Now</title>
+      <creator>Van Halen</creator>
+      <album>Best Of Volume 1</album>
+      <trackNum>13</trackNum>
+      <duration>322000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USWB19000029</meta>
+    </track>
+    <track>
+      <title>Love Walks In</title>
+      <creator>Van Halen</creator>
+      <album>5150</album>
+      <trackNum>7</trackNum>
+      <duration>310000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USWB10902266</meta>
+    </track>
+    <track>
+      <title>Any Way You Want It</title>
+      <creator>Journey</creator>
+      <album>The Essential Journey</album>
+      <trackNum>5</trackNum>
+      <duration>201000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USSM18100114</meta>
+    </track>
+    <track>
+      <title>Separate Ways (Worlds Apart)</title>
+      <creator>Journey</creator>
+      <album>Greatest Hits</album>
+      <trackNum>9</trackNum>
+      <duration>326000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USSM19932796</meta>
+    </track>
+    <track>
+      <title>You Don't Know How It Feels</title>
+      <creator>Tom Petty</creator>
+      <album>Wildflowers</album>
+      <trackNum>2</trackNum>
+      <duration>289000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USWB10102188</meta>
+    </track>
+    <track>
+      <title>Paint It, Black</title>
+      <creator>The Rolling Stones</creator>
+      <album>Hot Rocks (1964-1971) (Remastered)</album>
+      <trackNum>9</trackNum>
+      <duration>202000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USA176610020</meta>
+    </track>
+    <track>
+      <title>Sympathy For The Devil</title>
+      <creator>The Rolling Stones</creator>
+      <album>Hot Rocks (1964-1971) (Remastered)</album>
+      <trackNum>15</trackNum>
+      <duration>378000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USA176810010</meta>
+    </track>
+    <track>
+      <title>Gimme Shelter</title>
+      <creator>The Rolling Stones</creator>
+      <album>Hot Rocks (1964-1971) (Remastered)</album>
+      <trackNum>17</trackNum>
+      <duration>271000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USA176910020</meta>
+    </track>
+    <track>
+      <title>Jumpin' Jack Flash</title>
+      <creator>The Rolling Stones</creator>
+      <album>Hot Rocks (1964-1971) (Remastered)</album>
+      <trackNum>13</trackNum>
+      <duration>222000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USA176810110</meta>
+    </track>
+    <track>
+      <title>Wild Horses</title>
+      <creator>The Rolling Stones</creator>
+      <album>Hot Rocks (1964-1971) (Remastered)</album>
+      <trackNum>21</trackNum>
+      <duration>343000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USA177110020</meta>
+    </track>
+    <track>
+      <title>War Pigs (Live At The Rainbow Theatre/1973)</title>
+      <creator>Black Sabbath</creator>
+      <album>Past Lives</album>
+      <trackNum>7</trackNum>
+      <duration>457000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBAJE8000082</meta>
+    </track>
+    <track>
+      <title>Iron Man</title>
+      <creator>Black Sabbath</creator>
+      <album>Past Lives</album>
+      <trackNum>14</trackNum>
+      <duration>386000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBAJE0200886</meta>
+    </track>
+    <track>
+      <title>Oh, Pretty Woman (Album Version)</title>
+      <creator>Roy Orbison</creator>
+      <album>The Essential Roy Orbison</album>
+      <trackNum>21</trackNum>
+      <duration>176000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USSM16401575</meta>
+    </track>
+    <track>
+      <title>Dream On</title>
+      <creator>Aerosmith</creator>
+      <album>Aerosmith's Greatest Hits</album>
+      <trackNum>1</trackNum>
+      <duration>265000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USSM10024246</meta>
+    </track>
+  </trackList>
+</playlist>

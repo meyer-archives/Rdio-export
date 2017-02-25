@@ -1,0 +1,212 @@
+<playlist xmlns="http://xspf.org/ns/0/" version="1">
+  <title>Depresshin’</title>
+  <creator>mikemeyer</creator>
+  <meta rel="https://rdio.com/xspf/key">p932815</meta>
+  <meta rel="https://rdio.com/xspf/name">Depresshin’</meta>
+  <meta rel="https://rdio.com/xspf/owner">mikemeyer</meta>
+  <meta rel="https://rdio.com/xspf/playlist_directory">3_playlists</meta>
+  <meta rel="https://rdio.com/xspf/playlist_type">created</meta>
+  <meta rel="https://rdio.com/xspf/url">/people/mikemeyer/playlists/932815/Depresshin%E2%80%99/</meta>
+  <trackList>
+    <track>
+      <title>Two Weeks</title>
+      <creator>Grizzly Bear</creator>
+      <album>Veckatimest</album>
+      <trackNum>2</trackNum>
+      <duration>243000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBBPW0900065</meta>
+    </track>
+    <track>
+      <title>Mr. Blue Sky</title>
+      <creator>Electric Light Orchestra</creator>
+      <album>Out Of The Blue</album>
+      <trackNum>13</trackNum>
+      <duration>303000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USSM17200399</meta>
+    </track>
+    <track>
+      <title>Beautiful Day</title>
+      <creator>U2</creator>
+      <album>All That You Can't Leave Behind (Non EU Version)</album>
+      <trackNum>1</trackNum>
+      <duration>248000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBAAN0000196</meta>
+    </track>
+    <track>
+      <title>June Hymn</title>
+      <creator>The Decemberists</creator>
+      <album>The King Is Dead</album>
+      <trackNum>8</trackNum>
+      <duration>237000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USCA21002853</meta>
+    </track>
+    <track>
+      <title>Fall Into Place</title>
+      <creator>Apartment</creator>
+      <album>The Dreamer Evasive</album>
+      <trackNum>3</trackNum>
+      <duration>203000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBMSS0600017</meta>
+    </track>
+    <track>
+      <title>Fresh Feeling</title>
+      <creator>Eels</creator>
+      <album>Souljacker</album>
+      <trackNum>3</trackNum>
+      <duration>217000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USDW10110357</meta>
+    </track>
+    <track>
+      <title>Cross The Tracks (We Better Go Back)</title>
+      <creator>The J.B.'s</creator>
+      <album>Funky Good Time: The Anthology</album>
+      <trackNum>26</trackNum>
+      <duration>198000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USF067400020</meta>
+    </track>
+    <track>
+      <title>Furr</title>
+      <creator>Blitzen Trapper</creator>
+      <album>Furr</album>
+      <trackNum>3</trackNum>
+      <duration>247000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USSUB0875503</meta>
+    </track>
+    <track>
+      <title>Lost Coastlines</title>
+      <creator>Okkervil River</creator>
+      <album>The Stand Ins</album>
+      <trackNum>2</trackNum>
+      <duration>332000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">US38Y0812402</meta>
+    </track>
+    <track>
+      <title>40 Day Dream</title>
+      <creator>Edward Sharpe &amp; The Magnetic Zeros</creator>
+      <album>Edward Sharpe &amp; The Magnetic Zeros</album>
+      <trackNum>1</trackNum>
+      <duration>234000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USVR90954201</meta>
+    </track>
+    <track>
+      <title>Swim Until You Can't See Land</title>
+      <creator>Frightened Rabbit</creator>
+      <album>The Winter of Mixed Drinks</album>
+      <trackNum>2</trackNum>
+      <duration>259000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBDCA0901569</meta>
+    </track>
+    <track>
+      <title>Mountain Sound</title>
+      <creator>Of Monsters And Men</creator>
+      <album>My Head Is An Animal</album>
+      <trackNum>3</trackNum>
+      <duration>211000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USUM71202068</meta>
+    </track>
+    <track>
+      <title>Free</title>
+      <creator>Graffiti6</creator>
+      <album>Colours</album>
+      <trackNum>5</trackNum>
+      <duration>298000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USCA21102499</meta>
+    </track>
+    <track>
+      <title>Candy</title>
+      <creator>Paolo Nutini</creator>
+      <album>Sunny Side Up</album>
+      <trackNum>4</trackNum>
+      <duration>298000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBAHS0900136</meta>
+    </track>
+    <track>
+      <title>Comanche</title>
+      <creator>Cake</creator>
+      <album>Motorcade of Generosity</album>
+      <trackNum>1</trackNum>
+      <duration>129000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USGHH0800014</meta>
+    </track>
+    <track>
+      <title>Since I Left You</title>
+      <creator>The Avalanches</creator>
+      <album>Since I Left You</album>
+      <trackNum>1</trackNum>
+      <duration>260000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">AUMP00100095,GBBKS0000144</meta>
+    </track>
+    <track>
+      <title>Valerie</title>
+      <creator>Steve Winwood</creator>
+      <album>Revolutions: The Very Best Of Steve Winwood</album>
+      <trackNum>10</trackNum>
+      <duration>247000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBUM71002699</meta>
+    </track>
+    <track>
+      <title>After The Storm</title>
+      <creator>Mumford &amp; Sons</creator>
+      <album>Sigh No More</album>
+      <trackNum>12</trackNum>
+      <duration>247000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBUM70909104</meta>
+    </track>
+    <track>
+      <title>Resurrection Fern</title>
+      <creator>Iron &amp; Wine</creator>
+      <album>The Shepherd's Dog</album>
+      <trackNum>8</trackNum>
+      <duration>290000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USSUB0771008</meta>
+    </track>
+    <track>
+      <title>Faster</title>
+      <creator>Matt Nathanson</creator>
+      <album>Modern Love</album>
+      <trackNum>1</trackNum>
+      <duration>208000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USVG21102774</meta>
+    </track>
+    <track>
+      <title>All My Days</title>
+      <creator>Alexi Murdoch</creator>
+      <album>Time Without Consequence</album>
+      <trackNum>1</trackNum>
+      <duration>297000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">US4B80600001</meta>
+    </track>
+    <track>
+      <title>Something Good Can Work</title>
+      <creator>Two Door Cinema Club</creator>
+      <album>Tourist History</album>
+      <trackNum>6</trackNum>
+      <duration>164000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">FRU700900101</meta>
+    </track>
+    <track>
+      <title>Pentagram</title>
+      <creator>Cake</creator>
+      <album>Motorcade of Generosity</album>
+      <trackNum>4</trackNum>
+      <duration>139000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USGHH0800017</meta>
+    </track>
+    <track>
+      <title>Pinwheels</title>
+      <creator>The Smashing Pumpkins</creator>
+      <album>Oceania</album>
+      <trackNum>7</trackNum>
+      <duration>343000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">QMQJZ1200007</meta>
+    </track>
+    <track>
+      <title>Hard Knock Life (Ghetto Anthem)</title>
+      <creator>Jay-Z</creator>
+      <album>Vol.2 ... Hard Knock Life</album>
+      <trackNum>2</trackNum>
+      <duration>238000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USRL19800886</meta>
+    </track>
+  </trackList>
+</playlist>

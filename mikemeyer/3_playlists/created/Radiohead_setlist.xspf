@@ -1,0 +1,212 @@
+<playlist xmlns="http://xspf.org/ns/0/" version="1">
+  <title>Radiohead setlist</title>
+  <creator>mikemeyer</creator>
+  <meta rel="https://rdio.com/xspf/key">p1116037</meta>
+  <meta rel="https://rdio.com/xspf/name">Radiohead setlist</meta>
+  <meta rel="https://rdio.com/xspf/owner">mikemeyer</meta>
+  <meta rel="https://rdio.com/xspf/playlist_directory">3_playlists</meta>
+  <meta rel="https://rdio.com/xspf/playlist_type">created</meta>
+  <meta rel="https://rdio.com/xspf/url">/people/mikemeyer/playlists/1116037/Radiohead_setlist/</meta>
+  <trackList>
+    <track>
+      <title>Lotus Flower</title>
+      <creator>Radiohead</creator>
+      <album>The King Of Limbs</album>
+      <trackNum>5</trackNum>
+      <duration>300000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBU4B1100007</meta>
+    </track>
+    <track>
+      <title>Bloom</title>
+      <creator>Radiohead</creator>
+      <album>The King Of Limbs</album>
+      <trackNum>1</trackNum>
+      <duration>314000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBU4B1100003</meta>
+    </track>
+    <track>
+      <title>15 Step</title>
+      <creator>Radiohead</creator>
+      <album>In Rainbows</album>
+      <trackNum>1</trackNum>
+      <duration>237000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBSTK0700001</meta>
+    </track>
+    <track>
+      <title>Weird Fishes/Arpeggi</title>
+      <creator>Radiohead</creator>
+      <album>In Rainbows</album>
+      <trackNum>4</trackNum>
+      <duration>318000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBSTK0700004</meta>
+    </track>
+    <track>
+      <title>Kid A</title>
+      <creator>Radiohead</creator>
+      <album>Kid A</album>
+      <trackNum>2</trackNum>
+      <duration>284000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBAYE0000811</meta>
+    </track>
+    <track>
+      <title>Morning Mr Magpie</title>
+      <creator>Radiohead</creator>
+      <album>The King Of Limbs</album>
+      <trackNum>2</trackNum>
+      <duration>280000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBU4B1100004</meta>
+    </track>
+    <track>
+      <title>The Gloaming</title>
+      <creator>Radiohead</creator>
+      <album>Hail To The Thief (Collector's Edition)</album>
+      <trackNum>8</trackNum>
+      <duration>212000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBAYE0300811</meta>
+    </track>
+    <track>
+      <title>Separator</title>
+      <creator>Radiohead</creator>
+      <album>The King Of Limbs</album>
+      <trackNum>8</trackNum>
+      <duration>320000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBU4B1100010</meta>
+    </track>
+    <track>
+      <title>Pyramid Song</title>
+      <creator>Radiohead</creator>
+      <album>Amnesiac (Collector's Edition)</album>
+      <trackNum>2</trackNum>
+      <duration>288000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBAYE0001578</meta>
+    </track>
+    <track>
+      <title>Nude</title>
+      <creator>Radiohead</creator>
+      <album>In Rainbows</album>
+      <trackNum>3</trackNum>
+      <duration>255000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBSTK0700003</meta>
+    </track>
+    <track>
+      <title>I Might Be Wrong</title>
+      <creator>Radiohead</creator>
+      <album>Amnesiac (Collector's Edition)</album>
+      <trackNum>5</trackNum>
+      <duration>293000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBAYE0001581</meta>
+    </track>
+    <track>
+      <title>There, There</title>
+      <creator>Radiohead</creator>
+      <album>Hail To The Thief (Collector's Edition)</album>
+      <trackNum>9</trackNum>
+      <duration>323000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBAYE0300722</meta>
+    </track>
+    <track>
+      <title>Karma Police</title>
+      <creator>Radiohead</creator>
+      <album>OK Computer (Collector's Edition)</album>
+      <trackNum>6</trackNum>
+      <duration>261000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBAYE9701368</meta>
+    </track>
+    <track>
+      <title>Myxomatosis</title>
+      <creator>Radiohead</creator>
+      <album>Hail To The Thief (Collector's Edition)</album>
+      <trackNum>12</trackNum>
+      <duration>232000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBAYE0300815</meta>
+    </track>
+    <track>
+      <title>Feral</title>
+      <creator>Radiohead</creator>
+      <album>The King Of Limbs</album>
+      <trackNum>4</trackNum>
+      <duration>192000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBU4B1100006</meta>
+    </track>
+    <track>
+      <title>Idioteque</title>
+      <creator>Radiohead</creator>
+      <album>Kid A (Collector's Edition)</album>
+      <trackNum>8</trackNum>
+      <duration>309000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBAYE0000817</meta>
+    </track>
+    <track>
+      <title>Give Up The Ghost</title>
+      <creator>Radiohead</creator>
+      <album>The King Of Limbs</album>
+      <trackNum>7</trackNum>
+      <duration>290000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBU4B1100009</meta>
+    </track>
+    <track>
+      <title>Exit Music (For A Film)</title>
+      <creator>Radiohead</creator>
+      <album>OK Computer (Collector's Edition)</album>
+      <trackNum>4</trackNum>
+      <duration>264000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBAYE9701372</meta>
+    </track>
+    <track>
+      <title>Talk Show Host</title>
+      <creator>Radiohead</creator>
+      <album>The Bends (Collectors Edition)</album>
+      <trackNum>26</trackNum>
+      <duration>281000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBAYE9500136</meta>
+    </track>
+    <track>
+      <title>The National Anthem</title>
+      <creator>Radiohead</creator>
+      <album>Kid A (Collector's Edition)</album>
+      <trackNum>3</trackNum>
+      <duration>351000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBAYE0000812</meta>
+    </track>
+    <track>
+      <title>Planet Telex</title>
+      <creator>Radiohead</creator>
+      <album>The Bends (Collectors Edition)</album>
+      <trackNum>1</trackNum>
+      <duration>259000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBAYE9400059</meta>
+    </track>
+    <track>
+      <title>The One I Love</title>
+      <creator>R.E.M.</creator>
+      <album>Document (R.E.M. No. 5)</album>
+      <trackNum>7</trackNum>
+      <duration>197000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USIR38700018</meta>
+    </track>
+    <track>
+      <title>Everything in Its Right Place</title>
+      <creator>Radiohead</creator>
+      <album>Kid A (Collector's Edition)</album>
+      <trackNum>1</trackNum>
+      <duration>251000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBAYE0000810</meta>
+    </track>
+    <track>
+      <title>Reckoner</title>
+      <creator>Radiohead</creator>
+      <album>In Rainbows</album>
+      <trackNum>7</trackNum>
+      <duration>290000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBSTK0700007</meta>
+    </track>
+    <track>
+      <title>Paranoid Android</title>
+      <creator>Radiohead</creator>
+      <album>OK Computer (Collector's Edition)</album>
+      <trackNum>2</trackNum>
+      <duration>383000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBAYE9701376</meta>
+    </track>
+  </trackList>
+</playlist>

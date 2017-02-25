@@ -1,0 +1,124 @@
+<playlist xmlns="http://xspf.org/ns/0/" version="1">
+  <title>San José</title>
+  <creator>mikemeyer</creator>
+  <meta rel="https://rdio.com/xspf/key">p828195</meta>
+  <meta rel="https://rdio.com/xspf/name">San José</meta>
+  <meta rel="https://rdio.com/xspf/owner">mikemeyer</meta>
+  <meta rel="https://rdio.com/xspf/playlist_directory">3_playlists</meta>
+  <meta rel="https://rdio.com/xspf/playlist_type">created</meta>
+  <meta rel="https://rdio.com/xspf/url">/people/mikemeyer/playlists/828195/San_Jos%C3%A9/</meta>
+  <trackList>
+    <track>
+      <title>Next Girl</title>
+      <creator>The Black Keys</creator>
+      <album>Brothers</album>
+      <trackNum>2</trackNum>
+      <duration>198000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USNO11000077</meta>
+    </track>
+    <track>
+      <title>Tighten Up</title>
+      <creator>The Black Keys</creator>
+      <album>Brothers</album>
+      <trackNum>3</trackNum>
+      <duration>211000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USNO11000078</meta>
+    </track>
+    <track>
+      <title>Brianstorm</title>
+      <creator>Arctic Monkeys</creator>
+      <album>Favourite Worst Nightmare</album>
+      <trackNum>1</trackNum>
+      <duration>172000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBCEL0700061</meta>
+    </track>
+    <track>
+      <title>Do Me a Favour</title>
+      <creator>Arctic Monkeys</creator>
+      <album>Favourite Worst Nightmare</album>
+      <trackNum>7</trackNum>
+      <duration>209000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBCEL0700069</meta>
+    </track>
+    <track>
+      <title>Old Yellow Bricks</title>
+      <creator>Arctic Monkeys</creator>
+      <album>Favourite Worst Nightmare</album>
+      <trackNum>11</trackNum>
+      <duration>193000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBCEL0700073</meta>
+    </track>
+    <track>
+      <title>Bohemian Rhapsody</title>
+      <creator>Queen</creator>
+      <album>Greatest Hits 1 &amp; 2</album>
+      <trackNum>1</trackNum>
+      <duration>357000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBCEE7500015</meta>
+    </track>
+    <track>
+      <title>Another One Bites The Dust</title>
+      <creator>Queen</creator>
+      <album>Greatest Hits 1 &amp; 2</album>
+      <trackNum>2</trackNum>
+      <duration>215000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBCEE8000027</meta>
+    </track>
+    <track>
+      <title>Somebody To Love</title>
+      <creator>Queen</creator>
+      <album>Greatest Hits 1 &amp; 2</album>
+      <trackNum>10</trackNum>
+      <duration>296000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBCEE7600011</meta>
+    </track>
+    <track>
+      <title>Gimme Shelter</title>
+      <creator>The Rolling Stones</creator>
+      <album>Let It Bleed</album>
+      <trackNum>1</trackNum>
+      <duration>271000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USA176910020</meta>
+    </track>
+    <track>
+      <title>All Falls Down</title>
+      <creator>Kanye West</creator>
+      <album>The College Dropout</album>
+      <trackNum>4</trackNum>
+      <duration>224000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USDJ20301703</meta>
+    </track>
+    <track>
+      <title>Jesus Walks</title>
+      <creator>Kanye West</creator>
+      <album>The College Dropout</album>
+      <trackNum>7</trackNum>
+      <duration>194000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USDJ20400014</meta>
+    </track>
+    <track>
+      <title>It Ain't Me, Babe</title>
+      <creator>Bob Dylan</creator>
+      <album>The Essential Bob Dylan</album>
+      <trackNum>4</trackNum>
+      <duration>212000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USSM16401128</meta>
+    </track>
+    <track>
+      <title>Only Girl (In The World)</title>
+      <creator>Rihanna</creator>
+      <album>Loud</album>
+      <trackNum>5</trackNum>
+      <duration>235000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USUM71023200</meta>
+    </track>
+    <track>
+      <title>...Baby One More Time</title>
+      <creator>Britney Spears</creator>
+      <album>Baby One More Time</album>
+      <trackNum>1</trackNum>
+      <duration>210000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USJI19810404</meta>
+    </track>
+  </trackList>
+</playlist>
